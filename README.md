@@ -1,2 +1,2 @@
-# İZİBİZ ENTEGRASYON DOKÜMANI
-Entegrasyon kılavuzu
+# İZİBİZ ENTEGRASYON DOKÜMANI - PROXY
+Entegrasyon kılavuzu PROXY
